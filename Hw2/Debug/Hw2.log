@@ -1,0 +1,25 @@
+﻿  Hw2.cpp
+e:\vs\hw2\hw2\hw2.cpp(147): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(149): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(150): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(162): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(169): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(174): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(189): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(191): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(192): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(204): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(211): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs\hw2\hw2\hw2.cpp(216): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(271): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(275): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(277): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(311): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(338): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(345): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(351): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(365): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(375): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(394): warning C4018: '<': signed/unsigned 不相符
+e:\vs\hw2\hw2\hw2.cpp(446): warning C4018: '<': signed/unsigned 不相符
+  Hw2.vcxproj -> E:\VS\Hw2\Debug\Hw2.exe
